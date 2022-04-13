@@ -1,0 +1,39 @@
+.page{
+    color: rgb(187, 178, 169);
+    padding: 0 1rem;
+    background: #6e7881;
+    
+    
+}
+
+.page_content{
+    /* min-height: calc(100vh-160px); */
+    height: 1000px;
+    border-radius: 10px;
+    margin-top: -2rem;
+    background: rgb(95, 82, 82);
+    color: black;
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+.page_content_data{
+    /* top: 50%;
+    left: 50%; */
+    font-size: 50px;
+    /* transform: translate(-50%,-50%); */
+    background-image: url(../../assets/image/colorful-abstract-textured-background-design.jpg);
+    height: 1000px;
+}
+
+.page_box{
+    min-height: 120px;
+    margin: 0 -1rem;
+    font-size: 36px;
+    font-family: cursive;
+    background: #a7b1bb;
+    color: rgb(26, 28, 31);
+    padding-top: 15px;
+}
+
+
